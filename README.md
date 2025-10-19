@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Matheus Ryann
 
-<!--
-**matheusryann/matheusryann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Estudante de Engenharia da Computação** na UFMA e desenvolvedor em formação, com foco em Fullstack e Data. Apaixonado por tecnologia, inovação e sempre em busca de novos desafios!
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Buscando unir experiência acadêmica e prática em projetos de software.
+- 💡 Interesse especial por engenharia de software, inteligência artificial e visualização de dados.
+- 🧠 Amante do aprendizado contínuo e da resolução criativa de problemas.
+
+## 🛠️ Habilidades & Tecnologias
+
+**Frontend:**  
+React, React Native, Next.js, HTML, CSS, JavaScript, TypeScript
+
+**Backend:**  
+Node.js, NestJS, Express, Java
+
+**Banco de Dados:**  
+PostgreSQL, MySQL, MongoDB
+
+**Data & Analytics:**  
+Python (Pandas, NumPy, Scikit-learn), Power BI
+
+**Outros:**  
+Git/GitHub, Docker, APIs REST, integração com serviços externos, AWS S3
+
+## 📌 Projetos em Destaque
+
+- 🌐 **[Portfólio Pessoal](#)** – projetos acadêmicos e pessoais que refletem meu aprendizado e evolução.
+- 💻 **[Meu GitHub](https://github.com/matheusryann?tab=repositories)** – repositórios com aplicações web, mobile e análises de dados.
+
+## 🌎 Vamos conectar!
+
+- 🔗 [LinkedIn](#)
+
+## ✨ Fatos & Interesses
+
+- Sempre motivado por tecnologia e inovação.
+- Interesses: engenharia de software, IA, visualização de dados.
+- Curto aprender coisas novas e transformar ideias em soluções reais.
+
+---
+
+> “O melhor jeito de prever o futuro é criá-lo.” – Alan Kay
