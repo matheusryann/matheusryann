@@ -19,13 +19,6 @@
 
 ---
 
-### 🚀About me 
-
-👨‍💻 Estudante de **Engenharia da Computação** (UFMA) e **Desenvolvimento Fullstack**.  
-💡 Profissional movido pela curiosidade e pelo **aprendizado contínuo**. Possuo um forte perfil autodidata e não espero o conhecimento chegar: busco ativamente me atualizar explorando documentações, cursos extracurriculares e imersões nas tecnologias mais modernas do mercado.  
-🧠 Meu objetivo é unir a base sólida, analítica e focada em resolução de problemas da minha graduação com a agilidade do desenvolvimento web e análise de dados.  
-🌱 Foco em criar soluções de alto impacto, transformar ideias complexas em código limpo e agregar valor real à experiência dos usuários.
----
 
 ### 🚀 About Me
 👨‍💻 **Computer Engineering** Student (UFMA) and **Fullstack Developer**.  
