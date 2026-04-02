@@ -4,8 +4,8 @@
 
 **Computer Engineering Student | Fullstack Developer | Automation Enthusiast**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E2028?style=for-the-badge&logo=react&logoColor=61DAFB)](SEU_LINK_DO_PORTFOLIO_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusryann/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E2028?style=for-the-badge&logo=react&logoColor=61DAFB)](https://www.curriculo-matheusryann2026.dev.br/)
 
 </div>
 
@@ -53,7 +53,7 @@ I am driven by curiosity and a passion for **continuous learning**. I don't wait
 
 <div align="center">
   
-[![Matheus Ryann's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusryann&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/matheusryann)
+[![Matheus Ryann's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusryann&show_icons=true&theme=radical&hide_border=true)](https://github.com/matheusryann)
 
 </div>
 
