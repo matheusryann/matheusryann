@@ -1,66 +1,65 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Olá!%20Eu%20sou%20Matheus%20Ryann&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Fullstack%20&%20Data&descAlignY=55&descAlign=50"/>
-  
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=🎓+Estudante+de+Engenharia+da+Computação;💻+Desenvolvedor+Fullstack;📊+Entusiasta+de+Dados+e+IA" alt="Typing SVG" />
-  </a>
-</div>
 
-<br/>
+# 👋 Hi, I'm Matheus Ryann
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheusryann/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.curriculo-matheusryann2026.dev.br/" target="_blank">
-    <img src="https://img.shields.io/badge/-Site_Portfólio-%231E2028?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank">
-  </a>
-</div>
+**Computer Engineering Student | Fullstack Developer | Automation Enthusiast**
 
----
-
-
-### 🚀 About Me
-👨‍💻 **Computer Engineering** Student (UFMA) and **Fullstack Developer**.  
-💡 Driven by curiosity and a passion for **continuous learning**, I have a strong self-taught profile. I don't wait for knowledge to come to me: I actively seek it out by exploring documentation, extracurricular courses, and diving deep into the latest tech tools.  
-🧠 My goal is to merge the solid, analytical, and problem-solving foundation from my engineering degree with the agility of modern web development and data analytics.  
-🌱 I focus on building high-impact solutions, transforming complex ideas into clean code, and adding real value to the user experience.
----
-### 🛠️ Skills & Technologies
-<div align="center">
-  
-  **Frontend**<br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
-  
-  <br><br>**Backend & Banco de Dados**<br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb" />
-
-  <br><br>**Data & Analytics**<br>
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,pytorch" /> <br>
-  *(Pandas, NumPy, Scikit-learn, Power BI)*
-  
-  <br><br>**DevOps & Outros**<br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1E2028?style=for-the-badge&logo=react&logoColor=61DAFB)](SEU_LINK_DO_PORTFOLIO_AQUI)
 
 </div>
 
----
+<br>
 
-### 📊 My GitHub Stats
+## 🚀 About Me
+
+I am driven by curiosity and a passion for **continuous learning**. I don't wait for knowledge to come to me: I actively seek it out by exploring documentation, extracurricular courses, and diving deep into the latest tech tools.
+
+- 🎓 **Computer Engineering** Student at UFMA.
+- 💡 Merging solid analytical foundations with modern web development.
+- 🌱 Currently focusing on **Fullstack Development, Data, and Automations**.
+- 🤝 Always looking forward to building high-impact solutions and clean code.
+
+<br>
+
+## 🛠️ Skills & Technologies
 
 <div align="center">
-  <a href="https://github.com/matheusryann">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusryann&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusryann&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-  </a>
+
+**🖥️ Frontend / Languages** <br>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+
+<br>**🗄️ Backend / Databases** <br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge)
+
+<br>**📊 Data / DevOps / Automations** <br>
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?logo=n8n&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+
 </div>
 
----
+<br>
+
+## 📊 My GitHub Stats
 
 <div align="center">
-  <br>
-
-> *"The best way to predict the future is to invent it "* – **Alan Kay**
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+[![Matheus Ryann's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusryann&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/matheusryann)
+
+</div>
+
+<br>
+
+---
+<div align="center">
+  <p><em>"The best way to predict the future is to invent it." – Alan Kay</em></p>
 </div>
